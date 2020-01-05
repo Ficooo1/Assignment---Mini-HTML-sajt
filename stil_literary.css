@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+section h1{
+	font-size: 35px;
+	text-align: center;
+	font-weight: bolder;
+	
+}
+section p{
+	text-align: justify;
+	
+	
+}
+
+
+table{
+	width: 80%;
+	border-collapse: collapse;
+	margin: 0 auto;
+	
+	
+	
+}
+
+th{
+	padding: 18px;
+	
+}
+
+td{	
+	padding: 12px;
+}
+
+th, td {	
+	border: solid 1px #e6e6e6;
+}
+
+tr{
+	background-color: #EDEDED;
+	
+}
+tr.jedan{
+	background-color: #FFFFFF;
+	
+}
+
+#head{
+	background-color: #02AD8B;
+    color: white;
+}
+
+.gd{
+	text-align: center;
+	
+}
+
+

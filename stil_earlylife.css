@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tekst{
+	height: 700px;
+	padding-right: 25px;
+	overflow: scroll;
+	
+	
+	
+}
+
+#tekst p{
+	text-align: justify;
+	
+	
+}
+
+section h1{
+	text-align: center;
+	font-size: 35px;
+	font-weight: bolder;
+	
+	
+}
+#slika{
+	text-align: center;
+	
+	
+}
